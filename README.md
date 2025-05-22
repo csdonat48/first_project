@@ -14,4 +14,3 @@ Ez egy tanuló-projekt a git használatáról.
 - git clone <url-cím>
 - git pull (Szikronizálja a felhőben lévő fájlokat a local repository fájljaival.)
 - git push (Feltöltjük a saját állományainkat a remote repository-ba)
-- 
